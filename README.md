@@ -1,0 +1,2 @@
+# Dicom-and-Nifti-
+to work with medical images and analysis them , you must know some formatting files like DICOM and NIFTI , there are libraries that support those files like:  SimpleITK , pydicom , Dicom is used more in hospitals and NIFTI is used more in research .    when you are dealing with Dicom or Nifti you will struggle at first as they store and share a lot of information like device information , patient information on ,image information 
